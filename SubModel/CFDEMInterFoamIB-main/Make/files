@@ -1,3 +1,0 @@
-solverInterIB2_0.C
-
-EXE=$(CFDEM_USER_APP_DIR)/solverInterIB20

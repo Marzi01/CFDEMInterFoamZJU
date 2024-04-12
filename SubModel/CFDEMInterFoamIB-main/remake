@@ -1,9 +1,0 @@
-#!/bin/bash
-
-cd subModels
-wclean
-wmake
-
-cd ..
-wclean
-wmake
